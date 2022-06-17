@@ -40,6 +40,7 @@ public class Operators {
         System.out.println(b >= a); //false
 
         // String comparison
+
         String name = "Ilze";
         String name2 = "Ilze";
         System.out.println(name == name2);  //true
