@@ -9,12 +9,6 @@ public class DiscountRate {
 //    a.	Premium biedri saņem: 20%
 //    b.	Gold biedri saņem: 15%
 //    c.	Silver biedri saņem: 10%
-// public static double serviceDiscountPremium = 0.2;
-// public static double serviceDiscountGold = 0.15;
-// public static double serviceDiscountSilver = 0.1;
-// public static double productDiscountPremium = 0.1;
-// public  static double productDiscountGold = 0.1;
-// public static double productDiscountSilver = 0.1;
 
  public static double getServiceDiscountRate(String type) {
   double serviceDiscountPremium = 0.2;

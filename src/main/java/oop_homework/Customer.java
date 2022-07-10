@@ -40,13 +40,5 @@ public String getMemberType() {
 public void setMemberType(String type) {
     this.memberType = memberType;
 }
-//    @Override
-//    public String toString() {
-//        return "Customer{" +
-//                "name='" + name + '\'' +
-//                ", member=" + member +
-//                ", memberType='" + memberType + '\'' +
-//                '}';
-//    }
 
 }
